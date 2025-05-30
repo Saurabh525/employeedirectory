@@ -1,0 +1,14 @@
+{
+  "name": "sapui5-employee-directory-master",
+  "version": "1.0.0",
+  "description": "https://alibarisman.github.io/sapui5-employee-directory/webapp/index.html",
+  "main": "index.js",
+  "scripts": {
+    "start": "ui5 serve --open",
+    "build": "ui5 build --all",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

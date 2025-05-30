@@ -1,0 +1,15 @@
+specVersion: "3.2"
+type: application
+metadata:
+  name: employee-directory
+framework:
+  name: SAPUI5
+  version: "1.108.0"
+  libraries:
+    - name: sap.ui.core
+    - name: sap.m
+    - name: sap.ui.layout
+resources:
+  configuration:
+    paths:
+      webapp: webapp
